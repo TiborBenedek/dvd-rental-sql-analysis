@@ -21,6 +21,13 @@ The goal of the analysis is to explore revenue patterns, customer behavior, and 
 7. Revenue by store
 8. Revenue by country
 
+## Example Analysis
+
+### Revenue by Country
+
+![Revenue by Country](revenue_by_country.png)
+
+
 ## Dataset
 
 The analysis uses the PostgreSQL **DVD Rental sample database**.

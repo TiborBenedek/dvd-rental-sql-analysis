@@ -23,6 +23,14 @@ The goal of the analysis is to explore revenue patterns, customer behavior, and 
 
 ## Example Analysis
 
+### Top Customers by Revenue
+
+![Top Customers](top_customers.png)
+
+### Revenue by Film Category
+
+![Revenue by Category](revenue_by_category.png)
+
 ### Revenue by Country
 
 ![Revenue by Country](revenue_by_country.png)
